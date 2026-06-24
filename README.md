@@ -19,8 +19,8 @@
 | 路径 | 说明 |
 |------|------|
 | `competition-density.skill` | 可直接导入的 skill 包 |
-| `competition-density-skill/SKILL.md` | skill 的完整说明、触发条件和执行流程 |
-| `competition-density-skill/scripts/haversine.py` | Haversine 距离计算脚本 |
+| `competition-density/SKILL.md` | skill 的完整说明、触发条件和执行流程 |
+| `competition-density/scripts/haversine.py` | Haversine 距离计算脚本 |
 
 ## 触发场景
 
@@ -60,4 +60,4 @@
 
 下载或导入 `competition-density.skill` 到支持 `.skill` 的 Codex/Agent 环境中即可使用。
 
-如果只想查看 skill 的具体逻辑，可以直接阅读 [`competition-density-skill/SKILL.md`](competition-density-skill/SKILL.md)。
+如果只想查看 skill 的具体逻辑，可以直接阅读 [`competition-density/SKILL.md`](competition-density/SKILL.md)。
